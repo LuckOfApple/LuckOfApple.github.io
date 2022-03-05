@@ -3,8 +3,8 @@
   "username": "LuckOfApple",
   "name": "Luck",
   "userimg": "https://avatars.githubusercontent.com/u/18090854?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "full_name",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
